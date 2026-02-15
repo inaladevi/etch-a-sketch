@@ -5,7 +5,7 @@ This project focuses on DOM manipulation, event handling, and responsive layouts
 
 ## Live Demo
 
-Live Preview: https://inaladevi.github.io/etch-a-sketch/
+[View on Github Pages](https://inaladevi.github.io/etch-a-sketch/)
 
 ## Features
 
