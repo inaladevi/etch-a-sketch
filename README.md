@@ -24,7 +24,7 @@ Live Preview: https://inaladevi.github.io/etch-a-sketch/
 - CSS3 (Flexbox, responsive units)
 - JavaScript 
 
-## 🖼️ Preview
+## Preview
 
 ![Etch-A-Sketch Preview](etch-a-sketch-preview.png)
 
