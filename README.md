@@ -3,13 +3,9 @@
 An interactive Etch-A-Sketch web application built using vanilla JavaScript.  
 This project focuses on DOM manipulation, event handling, and responsive layouts.
 
----
-
 ## Live Demo
 
-Live Preview: https://your-username.github.io/etch-a-sketch/
-
----
+Live Preview: https://inaladevi.github.io/etch-a-sketch/
 
 ## Features
 
@@ -22,12 +18,14 @@ Live Preview: https://your-username.github.io/etch-a-sketch/
 - Clear button to reset the canvas
 - Responsive design that maintains a fixed drawing area
 
----
-
 ## Built With
 
 - HTML5
 - CSS3 (Flexbox, responsive units)
 - JavaScript 
+
+## 🖼️ Preview
+
+![Etch-A-Sketch Preview](etch-a-sketch-preview.png)
 
 
